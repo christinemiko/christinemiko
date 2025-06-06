@@ -27,6 +27,10 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 - **Databases :** MySQL, MongoDB
 - **DevOps & Testing :** Docker, GitHub Actions CI/CD, Jest, ESLint, Prettier
 - **Other :** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console
-> **Connect with me :**  
-> [LinkedIn](https://www.linkedin.com/in/christine-chau-paris/) | 📫 christinemiko@gmail.com
->     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christine-chau-paris" height="30" width="40" />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/christine-chau-paris/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christine-chau-paris" height="30" width="40" />
+  </a>
+</p>
