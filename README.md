@@ -29,3 +29,4 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 - **Other :** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console
 > **Connect with me :**  
 > [LinkedIn](https://www.linkedin.com/in/christine-chau-paris/) | 📫 christinemiko@gmail.com
+>     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christine-chau-paris" height="30" width="40" />
