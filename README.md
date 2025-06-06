@@ -1,26 +1,23 @@
 # Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
-![Développement animé](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)
+<img align="right" alt="Coding Gif" width="400" src="![Développement animé](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)">
 
 ---
 
 ## 🔭 Currently
-- Architecting and building robust Vue 3 & Node.js applications with a focus on modular, reusable components  
-- Championing accessibility (RGAA/WCAG) and performance optimizations across web and mobile platforms  
-- Defining product vision and feature roadmaps for Minahren, from ideation through release  
+- Building Vue 3 & Node.js apps with modular, reusable components  
+- Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile  
+- Shaping Minahren’s product vision and roadmap  
 
 ---
 
 ## 💬 About Me
-Originally trained as a PHP/Symfony full-stack developer, I’ve expanded into modern JavaScript frameworks and mobile:
-
-- **End-to-end ownership:** From designing responsive, SEO-optimized UIs in Vue 3/Nuxt to building scalable APIs in Symfony/Nest.js, I thrive on taking features from concept to production.  
-- **Product leader & co-founder:** As Creative Director and Lead Front-End Developer at Minahren, I established the mobile UX/UI architecture (React Native/Expo) and landing-page strategy (Vue 3/Nuxt 3), aligning technical execution with user needs and monetization models.  
-- **Accessibility & UX advocate:** Whether integrating RGAA/WCAG standards, collaborating with designers on Figma wireframes, or structuring SCSS modules for maintainable code, I ensure every interface is inclusive, intuitive, and visually consistent.  
-- **Performance & SEO specialist:** I implement lazy loading, optimize images, and configure Google Analytics 4/Search Console to monitor KPIs—striking the right balance between rich functionality and fast load times.  
-- **Mentorship & knowledge sharing:** By creating reusable front-end boilerplates (Nuxt, Vue) and documenting best practices (Testing, ESLint, Prettier), I empower teams to maintain code quality and ship features confidently.  
-- **CI/CD & DevOps:** Containerizing services with Docker, setting up GitHub Actions, and managing Expo builds for iOS/Android, I streamline deployments so teams can iterate rapidly without sacrificing stability.  
-- **Creative side project:** In my free time, I practice street art under the pseudonym “showshowart,” blending urban techniques with digital creativity.  
+Trained initially as a PHP/Symfony full-stack developer, I’ve progressed into modern JavaScript frameworks and mobile:
+- **End-to-end:** Designing responsive UIs (Vue 3/Nuxt) and scalable APIs (Symfony/Nest.js).  
+- **Co-founder & Product Lead:** Creative direction and mobile UX/UI (React Native/Expo) plus landing-page strategy (Vue 3/Nuxt 3) for Minahren.  
+- **Accessibility & Performance:** Implementing RGAA/WCAG standards, SEO optimization, lazy loading, and GA4 tracking.  
+- **CI/CD & DevOps:** Docker containerization, GitHub Actions, and Expo builds for seamless deployments.  
+- **Creative Side:** In my free time, I create street art under the pseudonym “showshowart.”  
 
 ---
 
