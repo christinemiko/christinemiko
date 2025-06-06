@@ -1,20 +1,22 @@
 # Hi 👋, I’m Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
 <img align="right" alt="Coding Gif" width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
-- 🔭 Currently
+# 🔭 Currently
 - Building Vue 3 & Node.js apps with modular, reusable components
 - Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile
 - Shaping Minahren’s product vision and roadmap
 
   
-- 💬 About Me
+# 💬 About Me
 Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed into modern JavaScript frameworks and mobile:
 - **End‐to‐end :** Designing responsive UIs (Vue 3/Nuxt) and scalable APIs (Symfony/Nest.js)
 - **Co‐founder & Product Lead :** Creative direction and mobile UX/UI (React Native/Expo) plus landing‐page strategy (Vue 3/Nuxt 3) for Minahren
 - **Accessibility & Performance :** Implementing RGAA/WCAG standards, SEO optimization, lazy loading, and GA4 tracking
 - **CI/CD & DevOps :** Docker containerization, GitHub Actions, and Expo builds for seamless deployments
 - **Creative Side :** In my free time, I create street art under the pseudonym “showshowart.”
- 📚 Tech Stack
+
+  
+# 📚 Tech Stack
 - **Core Background :** PHP, Symfony
 - **Languages :** JavaScript, TypeScript, PHP
 - **Frontend :** Vue 3, Nuxt 3, React, React Native, Tailwind CSS, Storybook
