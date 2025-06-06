@@ -1,6 +1,6 @@
 # Hi 👋, I’m Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
-![Développement animé](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)
+<img align="right" alt="Coding Gif" width="250" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
 
 ---
 
@@ -34,5 +34,5 @@ Trained initially as a PHP/Symfony full-stack developer, I’ve progressed into 
 ---
 
 > **Connect with me:**  
-> [LinkedIn](https://www.linkedin.com/in/christine-chau-paris/) | 📫 christine@example.com
+> [LinkedIn](https://www.linkedin.com/in/christine-chau-paris/) | 📫 christinemiko@gmail.com
 
