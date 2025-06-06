@@ -1,6 +1,6 @@
 # Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
-<img align="right" alt="Coding Gif" width="400" src="![Développement animé](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)">
+![Développement animé](https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif)
 
 ---
 
