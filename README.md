@@ -1,15 +1,14 @@
 # Hi 👋, I’m Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
-<img align="right" alt="Coding Gif" width="250" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
 
----
+<img align="right" alt="Coding Gif" width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
+
+
 
 ## 🔭 Currently
 - Building Vue 3 & Node.js apps with modular, reusable components  
 - Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile  
 - Shaping Minahren’s product vision and roadmap  
-
----
 
 ## 💬 About Me
 Trained initially as a PHP/Symfony full-stack developer, I’ve progressed into modern JavaScript frameworks and mobile:
@@ -18,8 +17,6 @@ Trained initially as a PHP/Symfony full-stack developer, I’ve progressed into 
 - **Accessibility & Performance:** Implementing RGAA/WCAG standards, SEO optimization, lazy loading, and GA4 tracking.  
 - **CI/CD & DevOps:** Docker containerization, GitHub Actions, and Expo builds for seamless deployments.  
 - **Creative Side:** In my free time, I create street art under the pseudonym “showshowart.”  
-
----
 
 ## 📚 Tech Stack
 
@@ -31,7 +28,6 @@ Trained initially as a PHP/Symfony full-stack developer, I’ve progressed into 
 - **DevOps & Testing:** Docker, GitHub Actions CI/CD, Jest, ESLint, Prettier  
 - **Other:** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console  
 
----
 
 > **Connect with me:**  
 > [LinkedIn](https://www.linkedin.com/in/christine-chau-paris/) | 📫 christinemiko@gmail.com
