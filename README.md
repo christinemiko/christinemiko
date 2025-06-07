@@ -53,7 +53,7 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 <p align="center">
   <img alt="Heart" height="80" src="assets/images/heart.png" /><img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Try+it+and+give+me+your+feedback!"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Try+it+and+give+me+your+feedback!"
   />
 </p>
 
