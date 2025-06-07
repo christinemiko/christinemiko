@@ -6,9 +6,9 @@
 # I’m Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
 
-
+<p align="center">
 <img align="center" alt="Coding Gif" width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
-
+</p>
 ## 🔭 Currently
 - Building Vue 3 , React Native & Node.js apps with modular, reusable components
 - Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile
@@ -45,9 +45,9 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 <p>Minahren is a playful mobile app for learning fashion, design, and architecture through gamified experiences.</p>
 
-
+<p align="center">
 <img align="center" alt="Minahren in action" height="450" src="assets/images/minahren-mobile.png" />
-
+</p>
 
 ## Download
 
