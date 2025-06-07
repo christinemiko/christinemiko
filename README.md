@@ -52,8 +52,16 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 ## Download
 
 <p align="center">
-  <img alt="Heart" height="80" src="assets/images/heart.png" /><img
+  <img
+    alt="Heart"
+    src="assets/images/heart.png"
+    height="80"
+    style="display:block; margin:0 auto;"
+  /><br/>
+  <img
+    alt="Typing"
     src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Try+it+and+give+me+your+feedback!"
+    style="display:block; margin:0 auto;"
   />
 </p>
 
