@@ -48,3 +48,18 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 <img align="center" alt="Minahren in action" height="450" src="assets/images/minahren-mobile.png" />
 
+
+## Download
+
+<p>Try it and give me your feedback!
+  <img align="center" alt="Heart" height="30" src="assets/images/heart.png" />
+</p>
+
+<a href="https://apps.apple.com/us/app/minahren/id6743315545">
+  <img align="center" alt="Download on the App Store" height="40" src="assets/images/app-store-badge.svg" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://play.google.com/store/apps/details?id=com.minahren.minahren&hl=en_US">
+  <img align="center" alt="Get it on Google Play" height="40" src="assets/images/google-play-badge.png" />
+</a>
+
+
