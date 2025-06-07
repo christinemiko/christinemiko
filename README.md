@@ -18,7 +18,7 @@
 ## 💬 About Me
 Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed into modern JavaScript frameworks and mobile:
 - 🚀 **End-to-end :** Designing responsive UIs (Vue 3/Nuxt) and scalable APIs (Symfony/Nest.js)  
-- 🤝 **Co-founder & Product Lead :** Creative direction and mobile UX/UI (React Native/Expo) plus landing-page strategy (Vue 3/Nuxt 3) for Minahren  
+- 🤝 **Co-founder & Product Lead dev Front-end :** Creative direction and mobile UX/UI (React Native/Expo) plus landing-page strategy (Vue 3/Nuxt 3) for Minahren  
 - ♿️ **Accessibility & Performance :** Implementing RGAA/WCAG standards, SEO optimization, lazy loading, and GA4 tracking  
 - 🔧 **CI/CD & DevOps :** Docker containerization, GitHub Actions, and Expo builds for seamless deployments  
 - 🎨 **Creative Side :** In my free time, I create street art under the pseudonym “showshowart.”  
