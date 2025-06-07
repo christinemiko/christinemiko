@@ -51,8 +51,8 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 ## Download
 
-<p>Try it and give me your feedback!
-  <img align="center" alt="Heart" height="60" src="assets/images/heart.png" />
+<p><img align="center" alt="Heart" height="80" src="assets/images/heart.png" />
+  Try it and give me your feedback!
 </p>
 
 <a href="https://apps.apple.com/us/app/minahren/id6743315545">
