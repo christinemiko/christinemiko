@@ -43,5 +43,5 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 ## Illustration de Minahren
 
-![Minahren en action](assets/images/minahren.png)
+![Minahren en action](assets/images/minahren-mobile.png)
 
