@@ -1,6 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!; I+am+a+Creative+Developper+%26+Product+Maker;Building+Web+and+Mobile+Apps;Let's+Create+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com
+    /?font=Roboto
+    &size=36
+    &pause=800
+    &color=000000
+    &center=true
+    &vCenter=true
+    &width=700
+    &lines=Bienvenue+sur+mon+GitHub!;Dev+Full+Stack+&+Co-Founder+Minahren;Vue+%2B+React+Native;Let’s+Build+Together!"
+    alt="Typing SVG" />
 </p>
+
 
 
 # I’m Christine Chau  
