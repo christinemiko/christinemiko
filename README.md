@@ -41,7 +41,10 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
   </a>
 </p>
 
-## Illustration de Minahren
+# Minahren
 
-![Minahren en action](assets/images/minahren-mobile.png)
+<p>Minahren is a playful mobile app for learning fashion, design, and architecture through gamified experiences.</p>
+
+
+<img align="center" alt="Minahren in action" height="450" src="assets/images/minahren-mobile.png" />
 
