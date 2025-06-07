@@ -34,6 +34,17 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 - **Other :** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinemiko&layout=compact&theme=default)
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=christinemiko&theme=default)](https://git.io/streak-stats)
+
+
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinemiko&show_icons=true&theme=default)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/christine-chau-paris/" target="_blank">
