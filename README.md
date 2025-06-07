@@ -10,7 +10,7 @@
 <img align="center" alt="Coding Gif" width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
 
 ## 🔭 Currently
-- Building Vue 3 & Node.js apps with modular, reusable components
+- Building Vue 3 , React Native & Node.js apps with modular, reusable components
 - Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile
 - Shaping Minahren’s product vision and roadmap
 
