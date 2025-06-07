@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Creative+Dev+&+Product+Maker;Building+Web+and+Mobile+Apps;Let’s+Create+Together!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!; I+am+a+Creative+Developper+%26+Product+Maker;Building+Web+and+Mobile+Apps;Let's+Create+Together!" />
 </p>
+
 
 # I’m Christine Chau  
 **Full Stack Web & Mobile Developer | Product-Oriented & Co-Founder of Minahren**
