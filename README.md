@@ -24,6 +24,9 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 - 🎨 **Creative Side :** In my free time, I create street art under the pseudonym “showshowart.”  
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christinemiko&layout=compact)
+
+
 ## 📚 Tech Stack
 - **Core Background :** PHP, Symfony
 - **Languages :** JavaScript, TypeScript, PHP
@@ -32,6 +35,10 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 - **Databases :** MySQL, MongoDB, MariaDB
 - **DevOps & Testing :** Docker, GitHub Actions CI/CD, Jest, ESLint, Prettier
 - **Other :** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console
+
+
+![Christine's GitHub stats](https://github-readme-stats.vercel.app/api?username=christinemiko&show_icons=true&theme=radical)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
