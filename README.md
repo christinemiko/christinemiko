@@ -27,7 +27,7 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 ## 📚 Tech Stack
 - **Core Background :** PHP, Symfony
 - **Languages :** JavaScript, TypeScript, PHP
-- **Frontend :** Vue 3, Nuxt 3, React, React Native, Tailwind CSS, Storybook
+- **Frontend :** Vue 3, Nuxt 3, React, React Native, Boostrap, Storybook
 - **Backend :** Node.js (Express, Nest.js), Symfony, Prisma
 - **Databases :** MySQL, MongoDB, MariaDB
 - **DevOps & Testing :** Docker, GitHub Actions CI/CD, Jest, ESLint, Prettier
