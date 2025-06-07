@@ -51,15 +51,18 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
 
 ## Download
 
-<p><img align="center" alt="Heart" height="80" src="assets/images/heart.png" />
-  Try it and give me your feedback!
+<p align="center">
+  <img alt="Heart" height="80" src="assets/images/heart.png" /><img
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=2000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Try+it+and+give+me+your+feedback!"
+  />
 </p>
 
+<p align="center">
 <a href="https://apps.apple.com/us/app/minahren/id6743315545">
   <img align="center" alt="Download on the App Store" height="40" src="assets/images/app-store-badge.svg" />
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.minahren.minahren&hl=en_US">
   <img align="center" alt="Get it on Google Play" height="40" src="assets/images/google-play-badge.png" />
 </a>
-
+</p>
 
