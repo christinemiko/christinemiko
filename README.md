@@ -40,3 +40,8 @@ Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed int
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christine-chau-paris" height="30" width="40" />
   </a>
 </p>
+
+## Illustration de Minahren
+
+![Minahren en action](assets/images/minahren.png)
+
