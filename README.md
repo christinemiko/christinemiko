@@ -10,14 +10,14 @@
 
 Building accessible digital products with a strong focus on UX, performance and product thinking.
 
-<br/>
+---
 
 ## Currently
 
-- Building modern web & mobile interfaces with Vue 3, Nuxt 3 and React Native
-- Designing scalable and accessible user experiences
-- Working on product-oriented systems and workflows
-- Shaping digital products from idea to production
+- Designing modern web & mobile experiences
+- Building accessible interfaces and scalable systems
+- Working across product, frontend and mobile development
+- Turning ideas into production-ready products
 
 ---
 
