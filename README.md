@@ -1,14 +1,14 @@
-
-Encore plus simple et très propre :
-
-```md
 # Christine Chau
 
 ### Product Engineer & Builder
 
 Building accessible digital products with a strong focus on UX, performance and product thinking.
 
----
+<br/>
+
+<hr/>
+
+<br/>
 
 ## Currently
 
@@ -17,7 +17,11 @@ Building accessible digital products with a strong focus on UX, performance and 
 - Working across product, frontend and mobile development
 - Turning ideas into production-ready products
 
----
+<br/>
+
+<hr/>
+
+<br/>
 
 ## Stack
 
