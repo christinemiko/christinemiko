@@ -30,4 +30,4 @@ Building accessible digital products with a strong focus on UX, performance and 
 ## Stack
 
 ```txt
-Vue 3 · Nuxt 3 · React Native · Node.js · TypeScript
+Vue  · Nuxt  · React Native · Node.js · TypeScript
