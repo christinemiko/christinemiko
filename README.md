@@ -1,76 +1,27 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Creative+Dev+%26+Product+Maker;Building+Web+%26+Mobile+Apps;Let's+Create+Together!;Co-Founder+of+Minahren;Vue3%2C+Nuxt3%2C+React+Native+%26+Node.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=111111&center=true&vCenter=true&width=900&lines=Product+Engineer+%26+Builder;Building+accessible+digital+products;Vue+3+·+Nuxt+3+·+React+Native+·+Node.js;You+don't+need+more+features.;You+need+better+products." />
 </p>
 
+---
 
-# I’m Christine Chau  
-**Full Stack Product Engineer | Product-Oriented & Co-Founder of Minahren**
+# Christine Chau
 
-<p align="center">
-<img align="center" alt="Coding Gif" width="450" src="https://i.pinimg.com/originals/9a/aa/1d/9aaa1d5723b5e20f258db26ccad93d35.gif">
-</p>
-## 🔭 Currently
-- Building Vue 3 , React Native & Node.js apps with modular, reusable components
-- Ensuring accessibility (RGAA/WCAG) and high performance on web & mobile
-- Shaping Minahren’s product vision and roadmap
+### Product Engineer & Builder
 
-  
-## 💬 About Me
-Trained initially as a PHP/Symfony full‐stack developer, I’ve progressed into modern JavaScript frameworks and mobile:
-- 🚀 **End-to-end :** Designing responsive UIs (Vue 3/Nuxt) and scalable APIs (Symfony/Nest.js)  
-- 🤝 **Co-founder & Product Lead dev Front-end :** Creative direction and mobile UX/UI (React Native/Expo) plus landing-page strategy (Vue 3/Nuxt 3) for Minahren  
-- ♿️ **Accessibility & Performance :** Implementing RGAA/WCAG standards, SEO optimization, lazy loading, and GA4 tracking  
-- 🔧 **CI/CD & DevOps :** Docker containerization, GitHub Actions, and Expo builds for seamless deployments  
-- 🎨 **Creative Side :** In my free time, I create street art under the pseudonym “showshowart.”  
+Building accessible digital products with a strong focus on UX, performance and product thinking.
 
+<br/>
 
-## 📚 Tech Stack
-- **Core Background :** PHP, Symfony
-- **Languages :** JavaScript, TypeScript, PHP
-- **Frontend :** Vue 3, Nuxt 3, React, React Native, Boostrap, Storybook
-- **Backend :** Node.js (Express, Nest.js), Symfony, Prisma
-- **Databases :** MySQL, MongoDB, MariaDB
-- **DevOps & Testing :** Docker, GitHub Actions CI/CD, Jest, ESLint, Prettier
-- **Other :** Accessibility auditing (RGAA/WCAG/ARIA), performance tuning, Google Analytics 4, Google Search Console
+## Currently
 
+- Building modern web & mobile interfaces with Vue 3, Nuxt 3 and React Native
+- Designing scalable and accessible user experiences
+- Working on product-oriented systems and workflows
+- Shaping digital products from idea to production
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/christine-chau-paris/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christine-chau-paris" height="30" width="40" />
-  </a>
-</p>
+---
 
-# Minahren
+## Stack
 
-<p>Minahren is a playful mobile app for learning fashion, design, and architecture through gamified experiences.</p>
-
-<p align="center">
-<img align="center" alt="Minahren in action" height="450" src="assets/images/minahren-mobile.png" />
-</p>
-
-## Download
-
-<p align="center">
-  <img
-    alt="Heart"
-    src="assets/images/heart.png"
-    height="80"
-    style="display:block; margin:0 auto;"
-  /><br/>
-  <img
-    alt="Typing"
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=C71585&center=true&vCenter=true&width=600&lines=Try+it+and+give+me+your+feedback!"
-    style="display:block; margin:0 auto;"
-  />
-</p>
-
-<p align="center">
-<a href="https://apps.apple.com/us/app/minahren/id6743315545">
-  <img align="center" alt="Download on the App Store" height="40" src="assets/images/app-store-badge.svg" />
-</a>&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/details?id=com.minahren.minahren&hl=en_US">
-  <img align="center" alt="Get it on Google Play" height="40" src="assets/images/google-play-badge.png" />
-</a>
-</p>
-
+```txt
+Vue 3 · Nuxt 3 · React Native · Node.js · TypeScript
