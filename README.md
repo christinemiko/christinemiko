@@ -10,7 +10,17 @@
 
 ### Product Engineer
 
-Building accessible digital products with a strong focus on UX, performance and product thinking.
+**Product Engineer ** focused on web & mobile experiences — combining software engineering, product strategy, and human-centered design.
+
+I design and build digital products end-to-end: front-end & back end architecture, accessible interfaces (RGAA/WCAG), design systems, mobile apps, SaaS platforms, and AI-assisted product experiences. Beyond code, I contribute to product strategy, business models, and positioning — because technical decisions should always create real business value.
+
+Before moving into tech, I spent 15+ years in luxury and merchandising at Ralph Lauren. That experience still shapes how I approach product: an obsession with detail, a deep understanding of human experience, and a strong visual/UX sensitivity  that complements my engineering skills.
+
+Currently:
+* Product Engineer & Builder at Eveasoft / Eloyse
+* Founder of Minahren (EdTech & Culture)
+* Creator of La Minute Builder
+* Contemporary artist under the name ShowshowArt
 
 <br/>
 
