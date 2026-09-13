@@ -8,7 +8,7 @@
 
 # Christine Chau
 
-### Product Engineer & Builder
+### Product Engineer
 
 Building accessible digital products with a strong focus on UX, performance and product thinking.
 
