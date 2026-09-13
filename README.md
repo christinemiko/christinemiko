@@ -26,12 +26,13 @@ Currently:
 
 ---
 
-## Currently
+## Engineering Focus
 
-- Designing modern web & mobile experiences
-- Building accessible interfaces and scalable systems
-- Working across product, frontend and mobile development
-- Turning ideas into production-ready products
+* Owning product features end to end, from product discovery and system architecture to production delivery and continuous improvement
+* Designing reliable transactional systems with idempotency, asynchronous processing, failure recovery, and reconciliation
+* Building accessible web and mobile products with Vue, NestJS, TypeScript, and React Native
+* Exploring applied AI and LLM product development through Mission CV and the OpenAI API
+
 
 <br/>
 
